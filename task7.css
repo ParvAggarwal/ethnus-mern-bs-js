@@ -1,0 +1,18 @@
+.container {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.btncontainer {
+  margin: 10px;
+}
+
+#animatedImage {
+  transform: translateX(0);
+  transition: transform 16s linear;
+}
+
+button {
+  margin: 10px;
+}
